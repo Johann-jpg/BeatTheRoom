@@ -1,0 +1,6 @@
+Für die Uhr: 
+
+Programme können via Windows-App (LED-BASIC Editor) auf die per USB angeschlossene Uhr hochgeladen werden
+
+--> Countdown läuft, liegt im Repo. (file: nixieCronClock/NixieCronClockCountdown.bas)
+	--> Countdown-Zeit muss hardgecodet werden (in t und q; Zeile 9 & 10)

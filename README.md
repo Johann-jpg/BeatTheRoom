@@ -26,3 +26,11 @@ Wenn das Rätsel gelöst wurde, wird die interact-Methode abgebrochen/beendet un
 #### Einer Deinit-Methode:
 
 Hier werden alle in der Init-Methode initialisierten Sensoren etc. deinitialisiert.
+
+### new Ideas
+
+#### Uhr
+
+- codieren einer Zeichenfolge, entcodieren und eingeben (Numpad?)
+- (unnötig) Stress durch einen ablaufenden Countdown aufbauen
+- z. B. 3 Minuten vor nächstem Tipp durch Relais vom RasPi aus schalten
