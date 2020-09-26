@@ -25,7 +25,7 @@ LED.bright(6)
     LED.pdez(0, c % 60, 1, 1)
     LED.pdez(3, d, 1, 1)
 
-    'Fï¿½hrende Nullen anzeigen
+    'Führende Nullen anzeigen
     LED.adp(0)
 
     goto 120
