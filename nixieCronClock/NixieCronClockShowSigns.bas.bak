@@ -15,7 +15,6 @@ LED.bright(6)
 ' 20: -
 ' 21: SPACE
 
-' example for "-Hallo- "
 a = 20
 b = 16
 c = 10

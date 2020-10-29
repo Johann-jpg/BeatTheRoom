@@ -1,0 +1,10 @@
+1. Flughafencodes oder Flugnummern
+    "Ihr wollt ausreisen"
+
+    Die NFC-Karte / Handy (???) an die Flughäfen halten
+
+2. Andere Farben als rot (wo nicht angefasst werden darf) --> mit Städten beschriftet
+
+3. extra-Tafel mit Landkarte
+    --> an Stanley anschließen
+    --> VGA? / HDMI?
